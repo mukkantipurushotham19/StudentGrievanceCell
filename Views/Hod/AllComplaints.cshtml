@@ -1,0 +1,50 @@
+﻿@model List<CollegeGrievanceCell.Models.ComplaintForm>
+
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+
+<body>
+    <table border="1">
+        <tr>
+            <th>ComplaintId </th>
+            <th>ComplaintType </th>
+            <th>Description </th>
+            <th>DateOfComplaint </th>
+            <th>Status </th>
+            <th>UpdateStatus</th>
+
+        </tr>
+
+        
+            
+                @foreach (var item in Model)
+                {<tr>
+                    <td>@item.ComplaintId</td>
+                    <td>@item.ComplaintType</td>
+                    <td>@item.Description</td>
+                    <td>@item.DateOfComplaint</td>
+                    <td>@item.Status</td>
+                    <td>@item.UpdateStatus</td>
+                 </tr>
+                }
+        
+
+    </table>
+    <div>
+        <a href="/Hod/Index">Back To IndexPage</a>
+    </div>
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+

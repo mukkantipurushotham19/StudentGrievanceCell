@@ -1,0 +1,79 @@
+﻿@model CollegeGrievanceCell.Models.ComplaintForm
+
+<!DOCTYPE html>
+<html>
+    <head>
+
+
+    </head>
+
+
+    <body>
+        <form action="" method="post">
+    <div>
+            <lable>
+            ComplaintId
+            </lable>
+            <input type="text" name="ComplaintId" readonly value="@Model.ComplaintId" />
+    </div>
+
+        <div>
+            <lable>
+                ComplaintType
+            </lable>
+            <input type="text" name="ComplaintType" readonly value="@Model.ComplaintType" />
+        </div>
+
+
+
+
+    <div>
+        <lable>
+                Description
+        </lable>
+            <input type="text" name="Description" readonly value="@Model.Description" />
+    </div>
+
+        <div>
+            <lable>
+                DateOfComplaint
+            </lable>
+            <input type="text" name="DateOfComplaint" readonly value="@Model.DateOfComplaint" />
+        </div>
+
+        <div>
+            <lable>
+                Status
+            </lable>
+            <input type="text" name="Status" value="@Model.Status" />
+        </div>
+        <div>
+            <lable>
+                UpdateStatus
+            </lable>
+            <input type="text" name="UpdateStatus" value="@Model.UpdateStatus" />
+        </div>
+
+
+        <div>
+            <input type="submit" name="" value="Update" />
+        </div>
+
+       
+
+    </form>
+
+    
+
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+

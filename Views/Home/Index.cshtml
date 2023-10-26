@@ -1,0 +1,58 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+
+<body>
+    <center>
+        <form action="" method="post">
+            <table>
+                <tr>
+                    <td>UserName</td>
+                    <td><input type="text" name="txtUserName" value="" />         </td>
+                </tr>
+                <tr>
+                    <td>Password</td>
+                    <td><input type="password" name="txtPassword" value="" />         </td>
+                </tr>
+
+                <tr>
+                    <td>Designation</td>
+                    <td><select name="txtDesignation">
+                    <option>Student</option>    
+                    <option>Admin</option>
+                    <option>HOD</option>                    
+                    </select></td>
+                </tr>
+
+                <tr colspan="2">
+                    <td><input type="submit" name="" value="Login" /></td>
+                </tr>
+
+                <tr>
+                    <td colspan="2">
+                        Don't have an account?
+                        <a href="/Home/Create">Sign up</a>
+                    </td>
+                </tr>
+
+            </table>
+
+        </form>
+        <div>
+            @ViewBag.msg
+        </div>
+
+    </center>
+</body>
+
+</html>
+
+
+
+
+
+
+

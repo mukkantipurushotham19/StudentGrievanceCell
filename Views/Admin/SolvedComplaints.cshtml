@@ -1,0 +1,59 @@
+﻿@model IEnumerable<CollegeGrievanceCell.Models.ComplaintForm>
+
+@{
+    ViewData["Title"] = "SolvedComplaints";
+}
+
+<h1>SolvedComplaints</h1>
+
+
+<table class="table"border="1">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ComplaintId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ComplaintType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateOfComplaint)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UpdateStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ComplaintId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ComplaintType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOfComplaint)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UpdateStatus)
+            </td>
+           
+        </tr>
+}
+    </tbody>
+</table>

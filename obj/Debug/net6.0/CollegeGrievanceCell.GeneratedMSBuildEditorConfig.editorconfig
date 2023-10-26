@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CollegeGrievanceCell
+build_property.RootNamespace = CollegeGrievanceCell
+build_property.ProjectDir = C:\Users\Purushotham.M\.Net_Files\Dot Net 7.0\Visual Studio Files\4_ASP.NET CORE_MVC\Projects\2_CollegeGrievanceCell_DIWithAdo\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Purushotham.M\.Net_Files\Dot Net 7.0\Visual Studio Files\4_ASP.NET CORE_MVC\Projects\2_CollegeGrievanceCell_DIWithAdo
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Purushotham.M/.Net_Files/Dot Net 7.0/Visual Studio Files/4_ASP.NET CORE_MVC/Projects/2_CollegeGrievanceCell_DIWithAdo/Views/Admin/AddStudDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkU3R1ZERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Purushotham.M/.Net_Files/Dot Net 7.0/Visual Studio Files/4_ASP.NET CORE_MVC/Projects/2_CollegeGrievanceCell_DIWithAdo/Views/Admin/AllComplaints.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWxsQ29tcGxhaW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Purushotham.M/.Net_Files/Dot Net 7.0/Visual Studio Files/4_ASP.NET CORE_MVC/Projects/2_CollegeGrievanceCell_DIWithAdo/Views/Admin/DeleteStudDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGVsZXRlU3R1ZERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Purushotham.M/.Net_Files/Dot Net 7.0/Visual Studio Files/4_ASP.NET CORE_MVC/Projects/2_CollegeGrievanceCell_DIWithAdo/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Purushotham.M/.Net_Files/Dot Net 7.0/Visual Studio Files/4_ASP.NET CORE_MVC/Projects/2_CollegeGrievanceCell_DIWithAdo/Views/Admin/SolvedComplaints.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU29sdmVkQ29tcGxhaW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Purushotham.M/.Net_Files/Dot Net 7.0/Visual Studio Files/4_ASP.NET CORE_MVC/Projects/2_CollegeGrievanceCell_DIWithAdo/Views/Hod/AllComplaints.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9kXEFsbENvbXBsYWludHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Purushotham.M/.Net_Files/Dot Net 7.0/Visual Studio Files/4_ASP.NET CORE_MVC/Projects/2_CollegeGrievanceCell_DIWithAdo/Views/Hod/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9kXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Purushotham.M/.Net_Files/Dot Net 7.0/Visual Studio Files/4_ASP.NET CORE_MVC/Projects/2_CollegeGrievanceCell_DIWithAdo/Views/Hod/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9kXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Purushotham.M/.Net_Files/Dot Net 7.0/Visual Studio Files/4_ASP.NET CORE_MVC/Projects/2_CollegeGrievanceCell_DIWithAdo/Views/Hod/PendingComplaintsSolve.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9kXFBlbmRpbmdDb21wbGFpbnRzU29sdmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Purushotham.M/.Net_Files/Dot Net 7.0/Visual Studio Files/4_ASP.NET CORE_MVC/Projects/2_CollegeGrievanceCell_DIWithAdo/Views/Home/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Purushotham.M/.Net_Files/Dot Net 7.0/Visual Studio Files/4_ASP.NET CORE_MVC/Projects/2_CollegeGrievanceCell_DIWithAdo/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Purushotham.M/.Net_Files/Dot Net 7.0/Visual Studio Files/4_ASP.NET CORE_MVC/Projects/2_CollegeGrievanceCell_DIWithAdo/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Purushotham.M/.Net_Files/Dot Net 7.0/Visual Studio Files/4_ASP.NET CORE_MVC/Projects/2_CollegeGrievanceCell_DIWithAdo/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Purushotham.M/.Net_Files/Dot Net 7.0/Visual Studio Files/4_ASP.NET CORE_MVC/Projects/2_CollegeGrievanceCell_DIWithAdo/Views/Student/CompDetailsById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDb21wRGV0YWlsc0J5SWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Purushotham.M/.Net_Files/Dot Net 7.0/Visual Studio Files/4_ASP.NET CORE_MVC/Projects/2_CollegeGrievanceCell_DIWithAdo/Views/Student/CompDetailsById_2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDb21wRGV0YWlsc0J5SWRfMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Purushotham.M/.Net_Files/Dot Net 7.0/Visual Studio Files/4_ASP.NET CORE_MVC/Projects/2_CollegeGrievanceCell_DIWithAdo/Views/Student/ComplaintForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDb21wbGFpbnRGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Purushotham.M/.Net_Files/Dot Net 7.0/Visual Studio Files/4_ASP.NET CORE_MVC/Projects/2_CollegeGrievanceCell_DIWithAdo/Views/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Purushotham.M/.Net_Files/Dot Net 7.0/Visual Studio Files/4_ASP.NET CORE_MVC/Projects/2_CollegeGrievanceCell_DIWithAdo/Views/Student/PendingComplaints.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxQZW5kaW5nQ29tcGxhaW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Purushotham.M/.Net_Files/Dot Net 7.0/Visual Studio Files/4_ASP.NET CORE_MVC/Projects/2_CollegeGrievanceCell_DIWithAdo/Views/Student/SolveComplaints.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxTb2x2ZUNvbXBsYWludHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Purushotham.M/.Net_Files/Dot Net 7.0/Visual Studio Files/4_ASP.NET CORE_MVC/Projects/2_CollegeGrievanceCell_DIWithAdo/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Purushotham.M/.Net_Files/Dot Net 7.0/Visual Studio Files/4_ASP.NET CORE_MVC/Projects/2_CollegeGrievanceCell_DIWithAdo/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

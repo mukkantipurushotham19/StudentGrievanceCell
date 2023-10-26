@@ -1,0 +1,89 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+
+<body>
+    <center>
+        <h1 style="font-style:italic"><b>Please Sign Up Here!</b></h1>
+        <form action="" method="post">
+            <table>
+                <tr>
+                    <td>UserId</td>
+                    <td><input type="text" name="UserId" value="" />         </td>
+                </tr>
+
+                <tr>
+                    <td>UserName</td>
+                    <td><input type="text" name="UserName" value="" />         </td>
+                </tr>
+
+                <tr>
+                    <td>Password</td>
+                    <td><input type="password" name="Password" value="" />         </td>
+                </tr>
+
+                <tr>
+                    <td>Department</td>
+                    <td>
+                        <select name="Department">
+                            <option>Mechanical</option>
+                            <option>CSE</option>
+                            <option>EEE</option>
+                            <option>ECE</option>
+                        </select>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>PhoneNumber</td>
+                    <td><input type="text" name="PhoneNumber" value="" />         </td>
+                </tr>
+
+                <tr>
+                    <td>EmailId </td>
+                    <td><input type="text" name="EmailId" value="" /></td>
+                </tr>
+
+                <tr>
+                    <td>Designation</td>
+                    <td>
+                        <select name="Designation">
+                            <option>Student</option>
+                            <option>Admin</option>
+                            <option>HOD</option>
+                        </select>
+                    </td>
+                </tr>
+                
+
+                <tr>
+                    <td><input type="submit" name="" value="SignUp" /></td>
+                    <td>
+                        <a href="/Home/Index">Login</a>
+                    </td>
+                </tr>
+            </table>
+
+        </form>
+        <div>
+            @ViewBag.msg
+        </div>
+
+    </center>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
